@@ -8,3 +8,7 @@ Quick example:
 ````bash
   echo [1,2,3] | ddd
 ````
+
+## Installation
+
+    npm install -g ddd

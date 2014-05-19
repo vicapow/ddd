@@ -1,7 +1,9 @@
 
 # DDD
 
-plot common visualizations from the command line
+Plot common visualizations from the command line
+
+NOTE: This module is just a proof of concept. Use at your own risk
 
 Quick example:
 

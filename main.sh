@@ -9,7 +9,7 @@ node server.js "$@" &
 /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome \
  --user-data-dir=tmp/ \
  --force-app-mode \
- --window-size=100,100 \
+ --window-size=500,500 \
  --app=http://localhost:8080/
 
 

@@ -10,7 +10,7 @@ node server.js "$@" &
  --user-data-dir=tmp/ \
  --force-app-mode \
  --window-size=500,500 \
- --app=http://localhost:8080/
+ --app=http://localhost:9081/
 
 
 # kill the node process before exiting
